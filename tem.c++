@@ -20,4 +20,4 @@ int main()
     cout<<minium(arr);
 
     return 0;
-}
+} //let see
