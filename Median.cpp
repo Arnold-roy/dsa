@@ -22,4 +22,6 @@ int main()
         ans = arr[n / 2];
         cout << "median" << ans << endl;
     }
+    return 0;
+    
 }
